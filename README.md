@@ -1,1 +1,1 @@
-# beacon
+# Project Beacon
