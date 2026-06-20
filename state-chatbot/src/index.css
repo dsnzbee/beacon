@@ -72,8 +72,6 @@ select {
   background: url("assets/images/try4.png") center top / cover no-repeat;
   transform: scale(1);
   z-index: -1;
-  filter: blur(16px) saturate(150%);
-  background-attachment: fixed;
 }
 
 .bg-blur-fallback {
@@ -89,12 +87,6 @@ select {
   filter: blur(16px) saturate(150%);
   transform: scale(1.02);
   will-change: transform, filter;
-}
-
-.chat-page .backimg,
-.analytics-page .backimg {
-  filter: blur(16px) saturate(150%);
-  background-attachment: fixed;
 }
 
 body::before {

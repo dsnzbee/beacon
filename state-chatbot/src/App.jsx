@@ -29,7 +29,7 @@ function App() {
 
   return (
     <>
-      <BlurFallback />
+      {(activePage === "chat" || activePage === "analytics") && <BlurFallback />}
       <div className="app-shell">
         {activePage === "location" || !selectedLocation ? (
           <LocationSelect
