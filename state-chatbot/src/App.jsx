@@ -1,24 +1,55 @@
 import { useState } from "react";
 import LocationSelect from "./components/LocationSelect";
 import Chatbot from "./components/Chatbot";
+import Analytics from "./components/Analytics";
 
 function App() {
   const [selectedLocation, setSelectedLocation] = useState(null);
+  const [activePage, setActivePage] = useState("location");
+  const [language, setLanguage] = useState("en");
 
   function openChatbot(location) {
     setSelectedLocation(location);
+    setActivePage("chat");
   }
 
   function goBackToLocationPage() {
     setSelectedLocation(null);
+    setActivePage("location");
+  }
+
+  function openAnalytics() {
+    setActivePage("analytics");
+  }
+
+  function openChatPage() {
+    setActivePage("chat");
   }
 
   return (
     <div className="app-shell">
-      {selectedLocation ? (
-        <Chatbot location={selectedLocation} onChangeLocation={goBackToLocationPage} />
+      {activePage === "location" || !selectedLocation ? (
+        <LocationSelect
+          language={language}
+          onChangeLanguage={setLanguage}
+          onLocationSubmit={openChatbot}
+        />
+      ) : activePage === "analytics" ? (
+        <Analytics
+          language={language}
+          location={selectedLocation}
+          onBackToChat={openChatPage}
+          onChangeLanguage={setLanguage}
+          onChangeLocation={goBackToLocationPage}
+        />
       ) : (
-        <LocationSelect onLocationSubmit={openChatbot} />
+        <Chatbot
+          language={language}
+          location={selectedLocation}
+          onChangeLanguage={setLanguage}
+          onChangeLocation={goBackToLocationPage}
+          onViewAnalytics={openAnalytics}
+        />
       )}
     </div>
   );

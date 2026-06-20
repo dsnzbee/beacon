@@ -1,0 +1,93 @@
+# Executive Summary
+
+This South Delhi resource guide compiles authoritative government information on shelters, helplines, schemes, facilities and procedures for vulnerable residents.  We list major night shelters and community halls in South Delhi (e.g. Sunlight Colony, Kalkaji and Nehru Place shelters) with addresses, capacities and NGO contacts.  Key rescue helplines include the DUSIB emergency control room (toll-free *14461* and numbers 011-23378789/0560/0559, WhatsApp 9871013284), plus police (100/112) and medical (102/108) services.  Common document requirements for welfare schemes are noted – e.g. Delhi Old Age Pension applications need Aadhaar, residence proof (voter ID/ration card, etc.) and a local bank account.  We summarize major Delhi social security schemes (SUH shelter, SMILE rehabilitation, pensions, Ladli Yojana, etc.) with eligibility and application steps.  Legal aid is available via South DLSA in Saket (Free Aid Helpline 1516).  The top hospitals in South Delhi with 24×7 emergency care include AIIMS (Ansari Nagar), Ambedkar Nagar Hospital (Dakshinpuri), Max Smart (Saket), Rainbow Children’s Hospital (Malviya Nagar) and others.  We give key food support pointers (Delhi Food Security/Ration portal) and links to e-government portals (Delhi e-District, Public Grievance portal).  Contact details for the South Delhi DM office (011‑29535025), ADM and helpline numbers are provided, along with a Mermeid flowchart of complaint escalation. All data are drawn from official Delhi government and associated sites.
+
+## Find nearby shelters  
+- *Sunlight Colony* (New Friends Colony, Block A): Community Hall near Gurudwara on Ring Road. 80‑90 beds (general). Run by SPYM NGO (Contact Dr. Rajesh, 9891268872).  
+- *Community Hall, Kalkaji*: Near DDA Flats at Dhobi Ghat, Kalkaji. 80‑bed general night shelter (run by Janpahal NGO).  
+- *Kalkaji Mandir Women’s Shelter*: Gandhi Mandir, Kalkaji. 50‑bed women-only night shelter (under AIWCD).  
+- *Lodhi Road Shelter (Women)*: Near Indian Social Institute (off Lodhi Road). 50‑bed women’s shelter (operated by SPYM).  
+- *Nehru Place Shelters*: Two 50-bed general shelters at Nehru Place Metro (Sites I & II).  Contact Janpahal (Mr. Kamlesh Prasad, 9810466272).  
+
+## Share shelter rescue helplines  
+- *DUSIB Shelter Helpline:* Toll-free 14461 (Shelter Control Room). Additional helplines: 011-23378789 and 011-23370560 (night shelter helpline); WhatsApp help 9871013284.  
+- *911/Police (24×7):* Dial 100 or 112 (all-in-one emergency).  
+- *Ambulance/Medical:* Dial 102 or 108 for free ambulance services.  
+- *Women/Distress Helpline:* 1091 (Women in distress) and 181 (Emergency Response).  
+- *Children:* 1098 (Childline).  
+- *Other:* STD code for South Delhi PCR, 011-26523967.  
+
+## Explain required documents  
+- *ID/Residence Proof:* Aadhaar card is mandatory for most Delhi welfare applications (e.g. OAP).  Acceptable residence proofs include Voter ID, PAN, Driving License, Ration Card, etc..  Non-residents (outside Delhi) are ineligible.  
+- *Bank Account:* A single bank account in Delhi is required (for direct benefit transfer).  
+- *Income Limits:* Many schemes require annual family income ≤ ₹1,00,000.  
+- *Scheme-specific Documents:* For pensions (old age/widow/disability), include age proof (birth certificate or school certificate), residence proof, marriage/death certificate (if applicable), and death certificate of breadwinner for family benefit schemes.  
+- *Night Shelter Access:* No formal ID needed for emergency night shelters; however, homeless persons often get a daily receipt. Rehabilitation schemes may require an affidavit or local police verification certificate.
+
+## Summarize government schemes  
+- *SMILE (Support for Marginalized Individuals)* – Govt. of India umbrella scheme (transgender and persons in begging).  Provides rehabilitation, medical care, skill-training and livelihood support.  Apply via Delhi Social Welfare Dept (Pragati Bhawan, Lajpat Nagar) or Social Justice ministry channels.  
+- *SUH (Shelter for Urban Homeless, NULM)* – Delhi scheme for night shelters and linkages for homeless (24×7 safe shelters with basic amenities).  Run by DUSIB; women’s, children’s and mixed shelters have special provisions.  Vulnerable (elderly, disabled, recovered ill) get priority housing and special services.  Apply at District DUSIB office or through area NGOs.  
+- *Old Age Pension (Delhi)* – ₹2,000–2,500/month for residents 60+ (annual income ≤₹1L).  Must apply through Social Welfare e-District portal or District Welfare Office.  Required: age proof, residence proof, income certificate, Aadhaar, bank account.  
+- *Disability Pension* – ₹1,500–2,000/month for 0–59 yrs with ≥40% disability (≤₹1L income).  Apply via e-District Social Welfare (upload disability certificate and ID). Income proof and single bank account required.  
+- *Widow’s/Distress Pension* – ₹2,500/month for widows/separated/destitute women (age ≥18, resident 5+ yrs, income ≤₹1L).  Apply at Delhi Women & Child Development Dept (District Welfare Offices or Janakpuri branch) with marriage certificate or widow’s certificate, death certificate of husband, and income proof.  Must have a single bank account.  
+- *Delhi Ladli Scheme (Lakhpati Bitiya)* – Cash awards for girl children (for schooling, marriage).  Benefits given by WCD.  Check WCD eDistrict portal under Women & Child.  
+- *Other: e.g. **Jan Awas Yojana (EWS housing)* for slum dwellers, *DFBS* (family benefit on breadwinner’s death), *Aashray (rehab)* – see Delhi e-District Welfare portal for details.
+
+## List hospitals and medical facilities  
+Key hospitals in South Delhi with 24×7 emergency:  
+- *AIIMS (Ansari Nagar)*: Apex public hospital (3500+ beds, trauma center).  
+- *Safdarjung Hospital / VMMC (East of Saket)*: Large central govt hospital with emergency (Part of AIIMS complex).  
+- *Max Smart Super Speciality Hospital (Saket)*: 600+ bed private tertiary center (emergency).  
+- *Apollo Hospitals, Sarita Vihar*: Multi-specialty, emergency.  
+- *Dr. B.R. Ambedkar (AIIMS) Hospital (Dakshinpuri)*: 200-bed multi-specialty (government).  
+- *Moolchand (Saket)*: MCD-run hospital (multi-specialty, emergency).  
+- *Rainbow Children’s Hospital (Malviya Nagar)*: Leading pediatric hospital (24×7 child emergency).  
+- *Holy Family / Jenney (Okhla)*: Govt maternity & general hospital (24×7).  
+- *Lady Hardinge (Central)*: Pediatric & maternal emergencies.  
+
+## Show emergency numbers  
+- *Police:* 100 (24×7). Delhi also uses 112 (all-in-one emergency number).  
+- *Ambulance:* 102 or 108 (24×7 ambulance).  
+- *Fire:* 101 (or 112).  
+- *Medical helplines:* 104 (primary care helpline), 1097 (HIV/AIDS).  
+- *Women’s Helpline:* 1091 (24×7 women in distress).  
+- *Child Helpline:* 1098 (run by WCD, toll-free).  
+- *DDMA / Disaster Control:* 1077 or 011-23378200 (Delhi Disaster Management Authority) for civic emergencies.  
+
+## Find legal aid and support offices  
+- *South DLSA (Legal Services Authority, Saket)*: Room 309, Saket Court Complex, New Delhi. Free legal advice and representation (monthly Lok Adalats). Helpline 1516 (toll-free). Phone 9667992799, 011-29562440, email south-dlsa@nic.in.  
+- *District Courts (Saket Court)*: Civil, Criminal and family courts handle legal disputes; Lok Adalats are regularly convened.  
+- *Regional Legal Aid:* For minor matters, approach Delhi State Legal Services Authority (Patiala House / Saket divisions).  
+- *NGO/Pro bono:* Organizations like Delhi Bar Association Legal Aid Clinic (Saket) offer free counsel. DLSA maintains an advocate panel.  
+
+## Guide complaints and grievances  
+- *Local Police Stations:* Lodge FIR or complaints at nearest police station (e.g. Hauz Khas PS for South A, or Saket PS for South C).  
+- *DM South Office:* South Delhi DM (Saket) can be petitioned for unresolved issues. Phone 011-29535025. The ADM (011-29536774) and SDMs (Hauz Khas 011-29536904; Saket 011-29535190) are escalation points.  
+- *Online Grievances:* Use Delhi PGMS portal (pgms.delhi.gov.in) to file public grievances. The Delhi e-District portal has a grievance form that links to PGMS. Citizens can also use the CM’s Jan-Sunwai portal (cmjansunwai.delhi.gov.in) or the Lt. Governor’s Listening Post.  
+- *District Public Grievance Cell:* At South DM office, receive petitions and forward them.  
+- *Human Rights:* For harassment or rights violations, contact the Delhi Human Rights Commission or file a petition in Ld. Advocate or High Court.  
+
+## Point to e-District and welfare portals  
+- *e-District Delhi:* Main portal for certificates and scheme applications (edistrict.delhigovt.nic.in). Here one can apply for Aadhaar-linked welfare schemes, pension, senior citizen certificates, etc. The “Register Grievance” page links to PGMS.  
+- *Delhi Social Welfare Dept (edistrict.ssw.delhi.gov.in):* Process pensions and scholarships.  
+- *Women & Child Dev Dept (edistrict.wcd.delhi.gov.in):* Apply for widow/daughter marriage/ladli schemes.  
+- *Food Supplies Dept (nfs.delhigovt.nic.in):* Check ration card status and fair price shop details.  
+- *Delhi e-Mitra:* Mobile app/portal for Government services and certificates across departments.  
+- *e-Transport (parivahan.gov.in) & E-Pass (STARS) portals:* Related utilities.  
+
+## Guide food support questions  
+- *Public Distribution System:* Delhi provides subsidized rations to ration-card holders.  Apply for AAY/BPL cards via the Food Supplies Dept (forms on edistrict or fsd.delhi.gov.in).  Use the Delhi Food Security Portal to find your fair price shop and ration status.  Delivery status and grievance redressal are online.  
+- *Community Kitchens / *Apna Rasoi:* Delhi runs subsidized food centers (e.g. *Apna Rasoi outlets) in many neighborhoods.  Check local North/South zone offices or social welfare postings for timings and locations.  
+- *Mid-Day Meal / ICDS:* Anganwadi centers provide free meals for children and pregnant women in slum clusters. Contact the nearest Anganwadi (WCD department).  
+- *NGO Feeding Programs:* Charities (e.g. Kilkari, Khalsa Aid, etc.) run free food distribution in areas like Saket camp, Bhogal, Taimur Nagar. Social media and local news often list timings.  
+- *Ration Card Guidance:* To obtain or update a ration card (for food subsidy), submit Aadhaar, address proof, and photo to the Food and Supplies department via e-District or area offices.  
+
+## Give housing support steps  
+- *Night Shelters Admission:* Any homeless person can walk into a DUSIB night shelter (no prior registration). Admission is informal; shelters provide a receipt/paper slip.  For permanent placement, register with DUSIB (office at Vikas Bhawan-II) under the Shelter for Urban Homeless component.  
+- *SSK (Saath Nibhaana, Old Age)* and Rent-free Housing: Delhi Municipal Corporation and DDA have limited subsidized housing for destitutes.  Apply through DUSIB or DDA’s rehabilition scheme for Jhuggi communities.  
+- *Rehabilitation (JJ clusters):* Families in Jhuggi-Jhopri (unauthorized slums) may be eligible for relocation flats under JJ Rehabilitation Policy (contact DUSIB or revenue Tehsil Mehrauli). Land owner permissions and community surveys are needed.  
+- *Coping with Eviction:* File objections at local revenue sub-division (Saket/Mehrauli offices) if facing displacement.  
+- *Govt Grants/Subsidies:* Delhi Awas Yojana (if eligible EWS) – apply on DDA website. For emergency needy, contact South DM’s Jan Awas Cell.  
+- *Dom and Eco-shelters:* For migrants/refugees without documentation, the nearest DUSIB night shelter is immediate step. Any further housing assistance goes through district CDPO/ ICDS (for children) or NGOs.  
+
+Sources: Official Delhi government and related sites (DUSIB, Social Welfare, WCD, DLSA, District South) (referenced above). The detailed table and flowchart synthesize these data.
