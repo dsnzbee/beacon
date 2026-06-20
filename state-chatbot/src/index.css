@@ -77,16 +77,23 @@ select {
 .bg-blur-fallback {
   position: fixed;
   inset: 0;
-  z-index: -2;
+  z-index: 0;
   pointer-events: none;
   background-image: url("assets/images/try4.png");
   background-position: center top;
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  filter: blur(16px) saturate(150%);
+  filter: blur(7px) saturate(150%);
   transform: scale(1.02);
-  will-change: transform, filter;
+  opacity: 1;
+  transition: opacity 300ms ease, filter 300ms ease, transform 300ms ease;
+  will-change: transform, filter, opacity;
+}
+
+.app-shell {
+  position: relative;
+  z-index: 1;
 }
 
 body::before {
