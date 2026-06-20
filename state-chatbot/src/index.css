@@ -414,7 +414,10 @@ h1 {
 
 .supported-functions-link {
   align-items: center;
-  background: transparent;
+  animation: dropdown-open 220ms ease both;
+  -webkit-backdrop-filter: var(--glass-blur);
+  backdrop-filter: var(--glass-blur);
+  background: rgba(36, 35, 35, 0.558);
   border: 0;
   border-radius: 0;
   box-shadow: none;
