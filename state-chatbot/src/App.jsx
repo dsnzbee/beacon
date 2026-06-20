@@ -2,6 +2,7 @@ import { useState } from "react";
 import LocationSelect from "./components/LocationSelect";
 import Chatbot from "./components/Chatbot";
 import Analytics from "./components/Analytics";
+import BlurFallback from "./BlurFallback";
 
 function App() {
   const [selectedLocation, setSelectedLocation] = useState(null);
@@ -27,31 +28,34 @@ function App() {
   }
 
   return (
-    <div className="app-shell">
-      {activePage === "location" || !selectedLocation ? (
-        <LocationSelect
-          language={language}
-          onChangeLanguage={setLanguage}
-          onLocationSubmit={openChatbot}
-        />
-      ) : activePage === "analytics" ? (
-        <Analytics
-          language={language}
-          location={selectedLocation}
-          onBackToChat={openChatPage}
-          onChangeLanguage={setLanguage}
-          onChangeLocation={goBackToLocationPage}
-        />
-      ) : (
-        <Chatbot
-          language={language}
-          location={selectedLocation}
-          onChangeLanguage={setLanguage}
-          onChangeLocation={goBackToLocationPage}
-          onViewAnalytics={openAnalytics}
-        />
-      )}
-    </div>
+    <>
+      <BlurFallback />
+      <div className="app-shell">
+        {activePage === "location" || !selectedLocation ? (
+          <LocationSelect
+            language={language}
+            onChangeLanguage={setLanguage}
+            onLocationSubmit={openChatbot}
+          />
+        ) : activePage === "analytics" ? (
+          <Analytics
+            language={language}
+            location={selectedLocation}
+            onBackToChat={openChatPage}
+            onChangeLanguage={setLanguage}
+            onChangeLocation={goBackToLocationPage}
+          />
+        ) : (
+          <Chatbot
+            language={language}
+            location={selectedLocation}
+            onChangeLanguage={setLanguage}
+            onChangeLocation={goBackToLocationPage}
+            onViewAnalytics={openAnalytics}
+          />
+        )}
+      </div>
+    </>
   );
 }
 

@@ -43,8 +43,13 @@
   box-sizing: border-box;
 }
 
+html {
+  background: var(--page-bg);
+}
+
 body {
   margin: 0;
+  background: transparent;
 }
 
 html,
@@ -60,11 +65,28 @@ select {
   font-family: "Gilroy";
 }
 
-.backimg{
+.backimg {
   position: absolute;
   inset: 0;
   background: url("assets/images/try4.png") center top / cover no-repeat;
   transform: scale(1);
+  z-index: -2;
+}
+
+.bg-blur-fallback {
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  pointer-events: none;
+  background-image: url("assets/images/try4.png");
+  background-position: center top;
+  background-size: cover;
+  filter: blur(14px) saturate(140%);
+  transform: scale(1.02);
+}
+
+.app-shell {
+  position: relative;
   z-index: 0;
 }
 
@@ -1300,21 +1322,3 @@ h1 {
   }
 }
 
-/* Fallback blurred background for browsers that don't support backdrop-filter */
-.bg-blur-fallback {
-  position: fixed;
-  inset: 0;
-  z-index: 0;
-  pointer-events: none;
-  background-image: url("assets/images/try4.png");
-  background-position: center top;
-  background-size: cover;
-  filter: blur(9px) saturate(120%);
-  transform: scale(1.02);
-  will-change: transform, filter;
-}
-
-/* Hide the per-component background when using the fallback to avoid double images */
-.bg-blur-fallback + #root .backimg {
-  display: none !important;
-}
