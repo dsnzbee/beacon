@@ -71,13 +71,15 @@ select {
   inset: 0;
   background: url("assets/images/try4.png") center top / cover no-repeat;
   transform: scale(1);
-  z-index: -2;
+  z-index: -1;
+  filter: blur(16px) saturate(150%);
+  background-attachment: fixed;
 }
 
 .bg-blur-fallback {
   position: fixed;
   inset: 0;
-  z-index: -1;
+  z-index: -2;
   pointer-events: none;
   background-image: url("assets/images/try4.png");
   background-position: center top;
@@ -87,6 +89,12 @@ select {
   filter: blur(16px) saturate(150%);
   transform: scale(1.02);
   will-change: transform, filter;
+}
+
+.chat-page .backimg,
+.analytics-page .backimg {
+  filter: blur(16px) saturate(150%);
+  background-attachment: fixed;
 }
 
 body::before {
