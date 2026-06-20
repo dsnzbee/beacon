@@ -1299,3 +1299,22 @@ h1 {
     transition-duration: 1ms !important;
   }
 }
+
+/* Fallback blurred background for browsers that don't support backdrop-filter */
+.bg-blur-fallback {
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  pointer-events: none;
+  background-image: url("assets/images/try4.png");
+  background-position: center top;
+  background-size: cover;
+  filter: blur(9px) saturate(120%);
+  transform: scale(1.02);
+  will-change: transform, filter;
+}
+
+/* Hide the per-component background when using the fallback to avoid double images */
+.bg-blur-fallback + #root .backimg {
+  display: none !important;
+}
