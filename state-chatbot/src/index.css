@@ -744,8 +744,8 @@ h1 {
 
 .message-row.bot .message-bubble {
   background-color: var(--page-bg);
-  backdrop-filter: var(--glass-blur);
   -webkit-backdrop-filter: var(--glass-blur);
+  backdrop-filter: var(--glass-blur);
   background: var(--page-bg);
   border: 1px solid var(--border);
   color: var(--text);
@@ -1036,7 +1036,7 @@ h1 {
 }
 
 .trend-line {
-  stroke: #8fe6a1;
+  stroke: #bce6c4;
   stroke-linecap: round;
   stroke-linejoin: round;
   stroke-width: 4;
@@ -1062,7 +1062,7 @@ h1 {
 }
 
 .capacity-fill {
-  background: linear-gradient(90deg, #8fe6a1, #f0e5d9);
+  background: linear-gradient(90deg, #c5e2cb, #f0e5d9);
 }
 
 .hotspot-row {
