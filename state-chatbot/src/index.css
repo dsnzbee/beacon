@@ -49,7 +49,8 @@ html {
 
 body {
   margin: 0;
-  background: transparent;
+  min-height: 100vh;
+  background: var(--page-bg);
 }
 
 html,
@@ -81,8 +82,20 @@ select {
   background-image: url("assets/images/try4.png");
   background-position: center top;
   background-size: cover;
-  filter: blur(14px) saturate(140%);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  filter: blur(16px) saturate(150%);
   transform: scale(1.02);
+  will-change: transform, filter;
+}
+
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: -2;
+  pointer-events: none;
+  background: rgba(0, 0, 0, 0.16);
 }
 
 .app-shell {
@@ -509,8 +522,8 @@ h1 {
 
 .location-box {
   animation: fade-slide-up 450ms ease both;
-  backdrop-filter: var(--glass-blur);
   -webkit-backdrop-filter: var(--glass-blur);
+  backdrop-filter: var(--glass-blur);
   background: var(--surface);
   border: 1px solid var(--border);
   border-radius: 50px;
