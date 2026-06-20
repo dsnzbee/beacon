@@ -799,8 +799,8 @@ h1 {
 
 .analytics-shell {
   align-self: stretch;
-  backdrop-filter: var(--glass-blur);
   -webkit-backdrop-filter: var(--glass-blur);
+  backdrop-filter: var(--glass-blur);
   background: var(--surface);
   min-height: 0;
   overflow-y: auto;
@@ -838,8 +838,8 @@ h1 {
 
 .metric-tile,
 .analytics-panel {
-  backdrop-filter: blur(7px) saturate(150%);
-  -webkit-backdrop-filter: blur(7px) saturate(150%);
+  -webkit-backdrop-filter: var(--glass-blur);
+  backdrop-filter: var(--glass-blur);
   background: rgba(36, 35, 35, 0.72);
   border: 1px solid rgba(240, 229, 217, 0.2);
   border-radius: 8px;
