@@ -3,8 +3,9 @@ import json
 from pathlib import Path
 import re
 
-HOST = "127.0.0.1"
-PORT = 8000
+HOST = "0.0.0.0"
+# Railway (and many PaaS) provide the port via the PORT env var.
+PORT = int(__import__("os").environ.get("PORT", "8000"))
 BASE_DIR = Path(__file__).resolve().parent
 DOCUMENTS_DIR = BASE_DIR / "documents"
 

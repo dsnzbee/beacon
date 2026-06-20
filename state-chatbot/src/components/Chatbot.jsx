@@ -3,6 +3,8 @@ import Header from "./Header";
 import { translate } from "../data/translations";
 import logoImage from "../assets/images/logo.png";
 
+const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || "";
+
 const promptSuggestions = [
   { labelKey: "promptShelter", prompt: "Help me find shelter nearby" },
   { labelKey: "promptSchemes", prompt: "Tell me government schemes I may qualify for" },
@@ -49,7 +51,11 @@ function Chatbot({ language, location, onChangeLanguage, onChangeLocation, onVie
     setIsLoading(true);
 
     try {
-      const response = await fetch("/api/chat", {
+      const apiUrl = API_BASE_URL
+        ? `${API_BASE_URL.replace(/\/+$/, "")}/api/chat`
+        : "/api/chat";
+
+      const response = await fetch(apiUrl, {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
